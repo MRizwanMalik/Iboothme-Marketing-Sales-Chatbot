@@ -1,0 +1,13 @@
+flask 
+fastapi
+python-dotenv
+langsmith
+markdown2
+structlog
+pydantic
+pymongo[srv]
+fuzzywuzzy
+markdown
+uvicorn[standard]
+gradio==5.23.2
+openai>=1.0.0
